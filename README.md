@@ -8,7 +8,7 @@ and viewers submit comments on the cakes.
 
 Use this gif as an example of how the app should work.
 
-![demo gif](assets/cakeoff.gif)
+![demo gif](assets/demo.gif)
 
 > To view in VSCode, right click on the README.md file and select "Open
 > Preview".
