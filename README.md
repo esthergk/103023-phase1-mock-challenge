@@ -8,7 +8,7 @@ and viewers submit comments on the cakes.
 
 Use this gif as an example of how the app should work.
 
-![demo gif](https://curriculum-content.s3.amazonaws.com/phase-1/phase-1-code-challenge-flatabeer/cakeoff.gif)
+![demo gif](assets/cakeoff.gif)
 
 > To view in VSCode, right click on the README.md file and select "Open
 > Preview".
